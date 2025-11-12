@@ -1,0 +1,4 @@
+# Default initial positions for starling2's ros2_control fake system
+
+initial_positions:
+  virtual: 0

@@ -1,0 +1,3 @@
+[submodule "starling2-description"]
+	path = starling2-description
+	url = https://github.com/JHU-ACEL/starling2-description.git

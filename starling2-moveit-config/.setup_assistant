@@ -1,0 +1,23 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: starling2_description
+    relative_path: urdf/starling2.urdf
+  srdf:
+    relative_path: config/starling2.srdf
+  package_settings:
+    author_name: Brian Chien
+    author_email: brianchien04172@gmail.com
+    generated_timestamp: 1760456138
+  control_xacro:
+    command:
+      []
+    state:
+      []
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      []
+    state:
+      []
